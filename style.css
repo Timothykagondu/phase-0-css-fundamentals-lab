@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+text-align: center;
+}
+#details{
+  display: flex;
+  align-items: center;
+  background-color: red;
+  justify-content: space-evenly;
+  text-align: center;
+}
+#featured-property{
+  justify-content: center;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+}
+figure{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+
+}
+img{
+  align-self: center;
+}
